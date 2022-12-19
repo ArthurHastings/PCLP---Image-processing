@@ -1,0 +1,8 @@
+
+Run cpplint
+
+Done processing ./bmp_header.h
+Done processing ./ex1.c
+
+Run clang-tidy-12
+
